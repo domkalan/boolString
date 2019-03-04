@@ -1,5 +1,5 @@
 # boolString
-JavaScript library for converting a string into a bool.
+JavaScript library for converting a string into a boolean.
 
 ## Install
 Using NodeJs (via npm)
