@@ -4,12 +4,12 @@ JavaScript library for converting a string into a bool.
 ## Install
 Using NodeJs (via npm)
 ```bash
-npm install --save boolString
+npm install --save boolstring
 ```
 
 Using Web Brwoser (via unpkg)
 ```HTML
-<script src="https://unpkg.com/boolString@1.0.0/index.js"></script>
+<script src="https://unpkg.com/boolstring@1.0.1/index.js"></script>
 ```
 
 ## Example
