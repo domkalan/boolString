@@ -1,13 +1,13 @@
 # boolString
-JavaScript library for converting a string into a boolean.
+Library for converting a string into a boolean that works with the browser and Node.js.
 
 ## Install
-Using NodeJs (via npm)
+Using Node.js (via npm)
 ```bash
 npm install --save boolstring
 ```
 
-Using Web Brwoser (via unpkg)
+Using Web Browser (via unpkg)
 ```HTML
 <script src="https://unpkg.com/boolstring@1.0.1/index.js"></script>
 ```

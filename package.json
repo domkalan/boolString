@@ -1,7 +1,7 @@
 {
   "name": "boolstring",
   "version": "1.0.2",
-  "description": "JavaScript library for converting a string into a boolean.",
+  "description": "Library for converting a string into a boolean that works with the browser and Node.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
