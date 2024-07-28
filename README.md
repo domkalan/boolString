@@ -1,5 +1,5 @@
 # boolString
-Library for converting a string into a boolean that works with the browser and Node.js.
+Converts a string like true, on, or enabled into a boolean.
 
 ## Install
 Using Node.js (via npm)
@@ -9,7 +9,7 @@ npm install --save boolstring
 
 Using Web Browser (via unpkg)
 ```HTML
-<script src="https://unpkg.com/boolstring@1.0.1/index.js"></script>
+<script src="https://unpkg.com/boolstring@2.0.1/index.js"></script>
 ```
 
 ## Example
@@ -28,10 +28,19 @@ Contributions are welcome to add more strings. To start, create a pull request (
 
 * `true`
 * `yes`
-* `valid`
-* `on`
-* `enabled`
 * `enable`
+* `enabled`
+* `valid`
+* `validated`
+* `active`
+* `activated`
+* `permit`
+* `permitted`
+* `allow`
+* `allowed`
+* `pass`
+* `passed`
+* `on`
 * `1`
 
 ## License
