@@ -1,4 +1,4 @@
-var boolString = function(string) {
+export default boolString = function(string) {
     return [
         'true',
         'yes',
@@ -17,8 +17,4 @@ var boolString = function(string) {
         'on',
         '1'
     ].includes(string.toLowerCase());
-}
-
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = boolString;
 }
